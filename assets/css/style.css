@@ -30,7 +30,7 @@ html, body {
  * Background colors 
  */
 .blue-bg {
-  background-color: #00B0FF;
+  background-color: #2496ed;
 }
 
 /* 
@@ -38,13 +38,13 @@ html, body {
  */
 .btn {
   font-family: "Varela", sans-serif;
-  background-color: #00B0FF;
+  background-color: #2496ed;
   padding: 0 15px;
   color: #ffffff;
   height: 44px;
   line-height: 42px;
   border-radius: 0;
-  border: 1px solid #00B0FF;
+  border: 1px solid #2496ed;
   text-transform: uppercase;
 }
 
@@ -64,8 +64,8 @@ html, body {
 .btn-inverted:hover,
 .btn-inverted:focus {
   color: #ffffff;
-  background-color: #00B0FF;
-  border-color: #00B0FF;
+  background-color: #2496ed;
+  border-color: #2496ed;
 }
 
 /* 
@@ -111,7 +111,7 @@ html, body {
   margin: 0 auto;
   width: 230px;
   height: 230px;
-  background-color: #00B0FF;
+  background-color: #2496ed;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -300,7 +300,7 @@ html, body {
 
 /* Navigation */
 .site-navigation {
-  background-color: #00B0FF;
+  background-color: #2496ed;
 }
 
 .site-navigation.affix {
@@ -892,7 +892,7 @@ html, body {
 
 .progress-bar {
   position: relative;
-  background-color: #00B0FF;
+  background-color: #2496ed;
   height: 10px;
 }
 
@@ -905,7 +905,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 15px;
-  border-color: transparent transparent #00B0FF transparent;
+  border-color: transparent transparent #2496ed transparent;
   z-index: 2;
 }
 
@@ -1026,7 +1026,7 @@ html, body {
 .section-services .nav-tabs .col-sm-fifth {
   height: 160px;
   background: #ffffff;
-  border-bottom: 3px solid #00B0FF;
+  border-bottom: 3px solid #2496ed;
 }
 
 .section-services .carousel-inner {
@@ -1075,8 +1075,8 @@ html, body {
 }
 
 .section-services .item-controls .carousel-control:hover, .section-services .item-controls .carousel-control:focus {
-  background-color: #00B0FF;
-  border-color: #00B0FF;
+  background-color: #2496ed;
+  border-color: #2496ed;
 }
 
 .section-services .item-controls .carousel-control:hover i, .section-services .item-controls .carousel-control:focus i {
@@ -1144,7 +1144,7 @@ html, body {
 
 .carousel-indicators .active .col-sm-fifth,
 .carousel-indicators a:hover .col-sm-fifth {
-  background-color: #00B0FF;
+  background-color: #2496ed;
 }
 
 .carousel-indicators .active .service p,
@@ -1167,7 +1167,7 @@ html, body {
 }
 
 .carousel-indicators .active .service .rectangle {
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 .carousel-indicators .active .service:after {
@@ -1181,7 +1181,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 15px 15px 0 15px;
-  border-color: #00B0FF transparent transparent transparent;
+  border-color: #2496ed transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1279,7 +1279,7 @@ html, body {
 
 .review-carousel .slick.rectangle:hover {
   background-color: #ffffff;
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 .review-carousel .slick.rectangle.slick-next {
@@ -1455,7 +1455,7 @@ html, body {
 .team-member .team-member-back {
   padding: 0 20px;
   display: table;
-  background: #00B0FF;
+  background: #2496ed;
   text-align: center;
   color: #ffffff;
   transform: rotateY(-180deg);
@@ -1533,7 +1533,7 @@ html, body {
 }
 
 .section-history .section-diff-title h2 {
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 .section-history .section-diff-title p {
@@ -1635,7 +1635,7 @@ html, body {
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-date {
   padding: 0 10px;
-  background-color: #00B0FF;
+  background-color: #2496ed;
 }
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-position {
@@ -1782,7 +1782,7 @@ html, body {
   margin: 0;
   border-top: 1px solid #f6f6f6;
   border-right: 1px solid #f6f6f6;
-  border-bottom: 2px solid #00B0FF;
+  border-bottom: 2px solid #2496ed;
   height: 47px;
 }
 
@@ -1803,13 +1803,13 @@ html, body {
 }
 
 .portfolio-sorting li a:hover, .portfolio-sorting li a.active {
-  background-color: #00B0FF;
+  background-color: #2496ed;
   color: #ffffff;
-  border-color: #00B0FF;
+  border-color: #2496ed;
 }
 
 .portfolio-sorting li a:hover:after, .portfolio-sorting li a.active:after {
-  border-color: #00B0FF;
+  border-color: #2496ed;
 }
 
 .portfolio-sorting li a:after, .portfolio-sorting li a.acitve:after {
@@ -1837,7 +1837,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 10px;
-  border-color: #00B0FF transparent transparent transparent;
+  border-color: #2496ed transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1868,7 +1868,7 @@ html, body {
 
 .portfolio-item .portfolio-item-thumb:after {
   content: '';
-  background-color: #00B0FF;
+  background-color: #2496ed;
   position: absolute;
   left: 0;
   right: 0;
@@ -1953,8 +1953,8 @@ html, body {
 }
 
 .portfolio-item:hover .portfolio-item-thumb .rectangle:hover {
-  background-color: #00B0FF;
-  border-color: #00B0FF;
+  background-color: #2496ed;
+  border-color: #2496ed;
   color: #ffffff;
 }
 
@@ -2045,7 +2045,7 @@ html, body {
 }
 
 .section-quote p span {
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 /* Sections background: Me */
@@ -2163,7 +2163,7 @@ html, body {
 
 .section-contact .btn:hover {
   color: #ffffff;
-  border-color: #00B0FF;
+  border-color: #2496ed;
 }
 
 .form-control {
@@ -2176,7 +2176,7 @@ html, body {
 
 .form-control:focus {
   box-shadow: none;
-  border-bottom-color: #00B0FF;
+  border-bottom-color: #2496ed;
 }
 
 textarea.form-control {
@@ -2217,7 +2217,7 @@ textarea.form-control {
 
 .section-networks a:hover, .section-networks a:focus {
   background-color: #ffffff;
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 /* FOOTER
@@ -2248,7 +2248,7 @@ textarea.form-control {
 }
 
 .site-footer ul a:hover {
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 .site-footer a {
@@ -2258,7 +2258,7 @@ textarea.form-control {
 }
 
 .site-footer a:hover {
-  color: #00B0FF;
+  color: #2496ed;
 }
 
 .site-footer .rectangle {
@@ -2276,7 +2276,7 @@ textarea.form-control {
 }
 
 .site-footer .rectangle:hover {
-  background-color: #00B0FF;
+  background-color: #2496ed;
   color: #ffffff;
 }
 
@@ -2333,7 +2333,7 @@ textarea.form-control {
   top: -20px;
   height: 40px;
   width: 40px;
-  background-color: #00B0FF;
+  background-color: #2496ed;
   color: #ffffff;
   box-shadow: none;
   border: 0;
@@ -2342,8 +2342,8 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #00B0FF;
-  border-color: #00B0FF;
+  color: #2496ed;
+  border-color: #2496ed;
 }
 
 .modal-header,
@@ -2357,8 +2357,8 @@ textarea.form-control {
 
 .modal-footer .btn:hover {
   background-color: #ffffff;
-  color: #00B0FF;
-  border-color: #00B0FF;
+  color: #2496ed;
+  border-color: #2496ed;
 }
 
 .modal-content {
@@ -2397,7 +2397,7 @@ textarea.form-control {
 .guide-card-item {
   background-color: #fff;
   margin: 20px;
-  color: #00B0FF;
+  color: #2496ed;
   border-radius: 10px;
   text-align: center;
 }
