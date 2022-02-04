@@ -30,7 +30,7 @@ html, body {
  * Background colors 
  */
 .blue-bg {
-  background-color: #2496ed;
+  background-color: #436fb8;
 }
 
 /* 
@@ -38,13 +38,13 @@ html, body {
  */
 .btn {
   font-family: "Varela", sans-serif;
-  background-color: #2496ed;
+  background-color: #436fb8;
   padding: 0 15px;
   color: #ffffff;
   height: 44px;
   line-height: 42px;
   border-radius: 0;
-  border: 1px solid #2496ed;
+  border: 1px solid #436fb8;
   text-transform: uppercase;
 }
 
@@ -64,8 +64,8 @@ html, body {
 .btn-inverted:hover,
 .btn-inverted:focus {
   color: #ffffff;
-  background-color: #2496ed;
-  border-color: #2496ed;
+  background-color: #436fb8;
+  border-color: #436fb8;
 }
 
 /* 
@@ -111,7 +111,7 @@ html, body {
   margin: 0 auto;
   width: 230px;
   height: 230px;
-  background-color: #2496ed;
+  background-color: #436fb8;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -300,7 +300,7 @@ html, body {
 
 /* Navigation */
 .site-navigation {
-  background-color: #2496ed;
+  background-color: #436fb8;
 }
 
 .site-navigation.affix {
@@ -453,22 +453,27 @@ html, body {
   text-align: center;
   margin: 0 auto;
   text-transform: uppercase;
+  margin-bottom: 50px;
 }
 
 .hero-content p {
   padding: 0 15px;
   margin: 30px auto 0;
   text-align: center;
-  text-transform: uppercase;
+  
 }
 .hero-contact{
   color: #fff;
-  font-size: 25px;
-  text-decoration: underline;
+  font-size: 20px;
+  text-decoration: none;
+  background: #436fb8;
+  padding: 15px;
+  border-radius: 5px;
 }
+
 .hero-contact:hover{
   color: #fff;
-  text-decoration: underline;
+  text-decoration: none;
 
 }
 .hero-content .hero-job {
@@ -584,6 +589,7 @@ html, body {
   /* HERO */
   .hero-content h1 {
     font-size: 32px;
+    margin-bottom: 50px;
   }
   .hero-content p {
     margin: 20px auto 0;
@@ -892,7 +898,7 @@ html, body {
 
 .progress-bar {
   position: relative;
-  background-color: #2496ed;
+  background-color: #436fb8;
   height: 10px;
 }
 
@@ -905,7 +911,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 15px;
-  border-color: transparent transparent #2496ed transparent;
+  border-color: transparent transparent #436fb8 transparent;
   z-index: 2;
 }
 
@@ -1026,7 +1032,7 @@ html, body {
 .section-services .nav-tabs .col-sm-fifth {
   height: 160px;
   background: #ffffff;
-  border-bottom: 3px solid #2496ed;
+  border-bottom: 3px solid #436fb8;
 }
 
 .section-services .carousel-inner {
@@ -1075,8 +1081,8 @@ html, body {
 }
 
 .section-services .item-controls .carousel-control:hover, .section-services .item-controls .carousel-control:focus {
-  background-color: #2496ed;
-  border-color: #2496ed;
+  background-color: #436fb8;
+  border-color: #436fb8;
 }
 
 .section-services .item-controls .carousel-control:hover i, .section-services .item-controls .carousel-control:focus i {
@@ -1125,10 +1131,13 @@ html, body {
 .service-info h3 {
   font-size: 28px;
   margin: 20px 0 0;
+  color: #0f4782;
 }
 
 .service-info p {
   margin: 30px 0 0;
+  font-size: 20px;
+  line-height: 2;
 }
 
 .nav-tabs .col-sm-fifth,
@@ -1144,7 +1153,7 @@ html, body {
 
 .carousel-indicators .active .col-sm-fifth,
 .carousel-indicators a:hover .col-sm-fifth {
-  background-color: #2496ed;
+  background-color: #436fb8;
 }
 
 .carousel-indicators .active .service p,
@@ -1167,7 +1176,7 @@ html, body {
 }
 
 .carousel-indicators .active .service .rectangle {
-  color: #2496ed;
+  color: #436fb8;
 }
 
 .carousel-indicators .active .service:after {
@@ -1181,7 +1190,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 15px 15px 0 15px;
-  border-color: #2496ed transparent transparent transparent;
+  border-color: #436fb8 transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1279,7 +1288,7 @@ html, body {
 
 .review-carousel .slick.rectangle:hover {
   background-color: #ffffff;
-  color: #2496ed;
+  color: #436fb8;
 }
 
 .review-carousel .slick.rectangle.slick-next {
@@ -1309,6 +1318,7 @@ html, body {
   color: #ffffff;
   max-width: 1000px;
   overflow-x: hidden;
+  font-size: 20px;
 }
 
 .review .review-author {
@@ -1455,7 +1465,7 @@ html, body {
 .team-member .team-member-back {
   padding: 0 20px;
   display: table;
-  background: #2496ed;
+  background: #436fb8;
   text-align: center;
   color: #ffffff;
   transform: rotateY(-180deg);
@@ -1533,7 +1543,7 @@ html, body {
 }
 
 .section-history .section-diff-title h2 {
-  color: #2496ed;
+  color: #436fb8;
 }
 
 .section-history .section-diff-title p {
@@ -1635,7 +1645,7 @@ html, body {
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-date {
   padding: 0 10px;
-  background-color: #2496ed;
+  background-color: #436fb8;
 }
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-position {
@@ -1782,7 +1792,7 @@ html, body {
   margin: 0;
   border-top: 1px solid #f6f6f6;
   border-right: 1px solid #f6f6f6;
-  border-bottom: 2px solid #2496ed;
+  border-bottom: 2px solid #436fb8;
   height: 47px;
 }
 
@@ -1803,13 +1813,13 @@ html, body {
 }
 
 .portfolio-sorting li a:hover, .portfolio-sorting li a.active {
-  background-color: #2496ed;
+  background-color: #436fb8;
   color: #ffffff;
-  border-color: #2496ed;
+  border-color: #436fb8;
 }
 
 .portfolio-sorting li a:hover:after, .portfolio-sorting li a.active:after {
-  border-color: #2496ed;
+  border-color: #436fb8;
 }
 
 .portfolio-sorting li a:after, .portfolio-sorting li a.acitve:after {
@@ -1837,7 +1847,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 10px;
-  border-color: #2496ed transparent transparent transparent;
+  border-color: #436fb8 transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1868,7 +1878,7 @@ html, body {
 
 .portfolio-item .portfolio-item-thumb:after {
   content: '';
-  background-color: #2496ed;
+  background-color: #436fb8;
   position: absolute;
   left: 0;
   right: 0;
@@ -1953,8 +1963,8 @@ html, body {
 }
 
 .portfolio-item:hover .portfolio-item-thumb .rectangle:hover {
-  background-color: #2496ed;
-  border-color: #2496ed;
+  background-color: #436fb8;
+  border-color: #436fb8;
   color: #ffffff;
 }
 
@@ -2045,7 +2055,7 @@ html, body {
 }
 
 .section-quote p span {
-  color: #2496ed;
+  color: #436fb8;
 }
 
 /* Sections background: Me */
@@ -2163,7 +2173,7 @@ html, body {
 
 .section-contact .btn:hover {
   color: #ffffff;
-  border-color: #2496ed;
+  border-color: #436fb8;
 }
 
 .form-control {
@@ -2176,7 +2186,7 @@ html, body {
 
 .form-control:focus {
   box-shadow: none;
-  border-bottom-color: #2496ed;
+  border-bottom-color: #436fb8;
 }
 
 textarea.form-control {
@@ -2217,7 +2227,7 @@ textarea.form-control {
 
 .section-networks a:hover, .section-networks a:focus {
   background-color: #ffffff;
-  color: #2496ed;
+  color: #436fb8;
 }
 
 /* FOOTER
@@ -2248,7 +2258,7 @@ textarea.form-control {
 }
 
 .site-footer ul a:hover {
-  color: #2496ed;
+  color: #436fb8;
 }
 
 .site-footer a {
@@ -2258,7 +2268,7 @@ textarea.form-control {
 }
 
 .site-footer a:hover {
-  color: #2496ed;
+  color: #436fb8;
 }
 
 .site-footer .rectangle {
@@ -2276,7 +2286,7 @@ textarea.form-control {
 }
 
 .site-footer .rectangle:hover {
-  background-color: #2496ed;
+  background-color: #436fb8;
   color: #ffffff;
 }
 
@@ -2333,7 +2343,7 @@ textarea.form-control {
   top: -20px;
   height: 40px;
   width: 40px;
-  background-color: #2496ed;
+  background-color: #436fb8;
   color: #ffffff;
   box-shadow: none;
   border: 0;
@@ -2342,8 +2352,8 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #2496ed;
-  border-color: #2496ed;
+  color: #436fb8;
+  border-color: #436fb8;
 }
 
 .modal-header,
@@ -2357,8 +2367,8 @@ textarea.form-control {
 
 .modal-footer .btn:hover {
   background-color: #ffffff;
-  color: #2496ed;
-  border-color: #2496ed;
+  color: #436fb8;
+  border-color: #436fb8;
 }
 
 .modal-content {
@@ -2397,17 +2407,18 @@ textarea.form-control {
 .guide-card-item {
   background-color: #fff;
   margin: 20px;
-  color: #2496ed;
+  color: #436fb8;
   border-radius: 10px;
   text-align: center;
 }
 .guide-card-item > .inner-card > div > h2 {
-  color: rgb(31, 29, 29) !important;
+  color: rgb(59, 90, 164) !important;
   font-size: 25px;
   font-weight: 300;
   padding-top: 50px;
   font-weight: 600;
 }
+
 .guide-title {
   font-size: 18px;
   color: #4d4b4b;
@@ -2415,4 +2426,12 @@ textarea.form-control {
 .guide-card-images {
   /* height: 150px; */
   width: 100%;
+}
+.booking-quote{
+  text-align: center;
+font-size: 20px;
+padding-top: 50px;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
 }
