@@ -396,8 +396,9 @@ html, body {
     top: 0;
   }
   .site-navigation .navbar-collapse {
+    
     position: relative;
-    background-color: #196fc0;
+    background-color: #436fb8;;
     z-index: 99;
     text-align: center;
     border-top: 0;
@@ -464,7 +465,7 @@ html, body {
 }
 .hero-contact{
   color: #fff;
-  font-size: 20px;
+  font-size: 15px;
   text-decoration: none;
   background: #436fb8;
   padding: 15px;
@@ -2434,4 +2435,5 @@ padding-top: 50px;
 width: 60%;
 margin-left: auto;
 margin-right: auto;
+color: #436fb8;
 }
