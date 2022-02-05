@@ -2406,11 +2406,12 @@ textarea.form-control {
   max-width: 60%;
 } */
 .guide-card-item {
-  background-color: #fff;
+  background-color: #eaeaea;
   margin: 20px;
   color: #436fb8;
   border-radius: 10px;
   text-align: center;
+  padding: 50px;
 }
 .guide-card-item > .inner-card > div > h2 {
   color: rgb(59, 90, 164) !important;
