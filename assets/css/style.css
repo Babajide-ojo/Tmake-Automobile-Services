@@ -626,7 +626,7 @@ html, body {
   margin: 15px 0 0;
   font-size: 16px;
   line-height: 16px;
-  color: #666;
+  color: #fff;
   letter-spacing: 2px;
   text-align: center;
   text-transform: uppercase;
@@ -2442,7 +2442,9 @@ color: #436fb8;
 }
 .map{
   text-decoration: underline;
+  color: #fff;
 }
 .fa-map-marker{
-  color: #436fb8;
+  color: #fff;
+  font-size: 20px;
 }
