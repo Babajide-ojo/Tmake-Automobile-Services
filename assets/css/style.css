@@ -1874,6 +1874,7 @@ html, body {
 .portfolio-item .portfolio-item-thumb {
   position: relative;
   height: 250px;
+  margin: 20px;
 }
 
 .portfolio-item .portfolio-item-thumb:after {
